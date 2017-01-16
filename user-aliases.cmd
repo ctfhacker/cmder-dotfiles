@@ -29,3 +29,5 @@ findstr=grep
 ips=ipconfig /all
 ipa=ipconfig /all
 idadir=cd C:\Users\ctf\AppData\Roaming\Hex-Rays;  
+python2=C:\Python27\python.exe
+python3=C:\Python36\python.exe
