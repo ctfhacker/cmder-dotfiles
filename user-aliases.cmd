@@ -31,5 +31,5 @@ ipa=ipconfig /all
 idadir=cd C:\Users\ctf\AppData\Roaming\Hex-Rays
 python2=C:\Python27\python.exe
 python3=C:\Python36\python.exe
-windbg=C:\Program Files\Windows Kits\10\Debuggers\x86\windbg.exe
-cdb=C:\Program Files\Windows Kits\10\Debuggers\x86\cdb.exe
+windbg="C:\Program Files\Windows Kits\10\Debuggers\x86\windbg.exe"
+cdb="C:\Program Files\Windows Kits\10\Debuggers\x86\cdb.exe"
